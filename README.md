@@ -6,7 +6,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=FFFFFF)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=FFFFFF)
 
+<!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=woals9677)](https://solved.ac/woals9677)
+-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KJM99&layout=compact&theme=cobalt)
 
