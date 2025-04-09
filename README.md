@@ -1,6 +1,7 @@
 <div align="center">
 
 ### 🛠️Tech Stack 
+https://jamni.tistory.com/
 
 ![JAVA](https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
